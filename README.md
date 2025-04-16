@@ -28,5 +28,5 @@ He empleado una variable para asi mantener el main limpio y facil de entender.
 - [X] Cambiar direccion IP
 - [X] Cambiar DNS
 - [ ] Revisar si las direcciones introducidas son con el formato correcto
-- [ ] Ver si la IP esta en uso para evitar conflicto de IP
-- [ ] Compatible con ingles y castellano (Idioma de Windows)
+- [X] Ver si la IP esta en uso para evitar conflicto de IP
+- [X] Compatible con ingles y castellano (Idioma de Windows)
